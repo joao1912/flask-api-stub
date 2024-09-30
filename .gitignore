@@ -1,0 +1,20 @@
+# Ambiente Virtual
+.venv/
+ENV/
+env/
+
+# Arquivos de configuração de ambiente (variáveis sensíveis)
+*.env
+
+# Dependências
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Arquivos temporários ou de cache do sistema operacional
+*.swp
+*.swo
